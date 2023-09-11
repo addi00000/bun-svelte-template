@@ -6,7 +6,7 @@
 <!-- 
 write description here
  -->
-A template for Sveltekit using Bun. (Blazingly Fast)²
+A template for Sveltekit using Bun. (Blazingly Fast)²<br />Components and styling with <a href="https://www.shadcn-svelte.com/">shadcn-svelte</a> and tailwind
 </p>
 
 <p align="center">
